@@ -5,7 +5,7 @@
 ## Usage
 First, go into the project directory and then:
 ```
-nitro compile FILENAME.nitro
+nitro compile FILE_NAME.nitro
 ```
 The compiled HTML file will be written to build/index.html
 
