@@ -7,14 +7,15 @@ First, go into the project directory and then:
 ```
 nitro compile FILE_NAME.nitro
 ```
+The compiled HTML file will be written to build/index.html
+
 ## Example
 Here is a basic example usage of Nitro
 ```
 [tag = title, colour = red]
-  Hello world!
+    Hello world!
 [!tag = title]
 ```
-The compiled HTML file will be written to build/index.html
 
 ## Installation (Linux)
 ```sh
